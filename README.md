@@ -2,7 +2,7 @@
 
 ## Description
 
-AI assistant capable of answering questions from PDF documents using RAG.
+An AI assistant capable of answering questions from PDF documents using Retrieval-Augmented Generation (RAG).
 
 ## Technologies
 
@@ -10,13 +10,13 @@ AI assistant capable of answering questions from PDF documents using RAG.
 - FastAPI
 - LangChain
 - FAISS
+- OpenAI / LLM
 
 ## Features
 
 - PDF Upload
-- Vector Search
-- AI Generated Answers
+- Semantic Search
+- Question Answering
+- Vector Database
 
-## Author
-
-Ikrame Chennouf
+## Screenshots
